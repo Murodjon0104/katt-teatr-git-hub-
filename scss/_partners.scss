@@ -1,0 +1,27 @@
+.partners_container {
+    margin-bottom: 120px;
+    span {
+        color: #D1A954;
+    }
+
+    h2 {
+        font-family: 'Open Sans Condensed';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 48px;
+        line-height: 65px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        margin-bottom: 160px;
+        text-align: center;
+        color: white;
+    }
+    .gazs{
+        gap: 70px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
